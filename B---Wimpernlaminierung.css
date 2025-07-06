@@ -1,0 +1,52 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 50px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 742px;
+  margin: 50px auto 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'SafiraMarchPersonalUseOnly';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SafiraMarchPersonalUseOnly.ttf);
+}@font-face {
+  font-family: 'CormorantGaramond-VariableFont_wght';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/CormorantGaramond-VariableFont_wght.ttf);
+}
+/* page-custom-fonts */
+@font-face {
+  font-family: 'SafiraMarchPersonalUseOnly';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SafiraMarchPersonalUseOnly.ttf);
+}@font-face {
+  font-family: 'CormorantGaramond-VariableFont_wght';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/CormorantGaramond-VariableFont_wght.ttf);
+}
