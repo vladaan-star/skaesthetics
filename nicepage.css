@@ -33438,7 +33438,7 @@ li.active > a.u-button-style.u-button-style.u-active-grey-80,
 li.active > a.u-button-style.u-button-style.u-active-grey-80[class*="u-border-"],
 input.u-field-input.u-field-input.u-active-grey-80:checked {
   color: #ffffff !important;
-  background-color: #C28991 !important;
+  background-color: #C8BFB6 !important;
 }
 a.u-link.u-hover-grey-80:hover {
   color: #333333 !important;
@@ -37664,7 +37664,7 @@ input.u-field-input.u-field-input.u-border-active-grey-70:checked {
 }
 .u-button-style.u-border-grey-75:hover,
 .u-button-style.u-border-grey-75:focus {
-  border-color: transparent !important;
+  border-color: #404040 !important;
   color: #3a3a3a !important;
   background-color: transparent !important;
 }
@@ -45539,7 +45539,7 @@ a.u-link.u-text-hover-color-var:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #3A2C27 !important;
-            background-color: #ede4c9 !important;
+            background-color: #e8e0db !important;
         }
 
         /* hover */

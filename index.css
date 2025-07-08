@@ -19,7 +19,7 @@ body, p, a, li, h3, h4, h5, h6 {
 }
 
 #contact-block {
-  background-color: #C28991;
+  background-color: #C8BFB6;
 }
 
 /* Force white text color inside #contact-block */
@@ -41,8 +41,8 @@ body, p, a, li, h3, h4, h5, h6 {
 #btn-emphasis-3,
 #btn-emphasis-4 {
   color: #ffffff !important;
-  background-color: #C28991 !important;
-  border-color: #C28991 !important;
+  background-color: #C8BFB6 !important;
+  border-color: #C8BFB6 !important;
   transition: background-color 0.5s ease, border-color 0.5s ease;
 }
 #btn-emphasis:hover,
@@ -50,8 +50,8 @@ body, p, a, li, h3, h4, h5, h6 {
 #btn-emphasis-3:hover,
 #btn-emphasis-4:hover  {
   color: #ffffff !important;
-  background-color: #91686e !important;
-  border-color: #91686e !important;
+  background-color: #b2a9a1 !important;
+  border-color: #b2a9a1 !important;
 }
 
 
@@ -895,7 +895,7 @@ body, p, a, li, h3, h4, h5, h6 {
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1055px;
+    /* min-height: 1055px; */
   }
 
   .u-section-5 .u-text-1 {
