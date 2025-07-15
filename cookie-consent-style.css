@@ -1,0 +1,38 @@
+/* Cookie Buttons */
+.cc-nb-buttons-container .cc-nb-okagree {
+  background-color: #8273FF !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 6px !important;
+  padding: 10px 20px !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+}
+
+.cc-nb-buttons-container .cc-nb-changep {
+  background-color: #F8F8F8 !important;
+  color: #000000 !important;
+  border: 1px solid #ccc !important;
+  border-radius: 6px !important;
+  padding: 10px 20px !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+}
+
+/* Settings panel */
+.cc-cp-foot-save {
+  background-color: #8273FF !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 6px !important;
+  padding: 10px 25px !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+}
+
+.termsfeed-com---palette-light .cc-pc-head-close:focus,
+.termsfeed-com---palette-light .cc-pc-head-close:active {
+  box-shadow: 0 0 0 2px #8273FF !important;
+  border: none !important;
+  outline: none !important;
+}
