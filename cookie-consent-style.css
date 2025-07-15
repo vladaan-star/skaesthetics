@@ -1,6 +1,6 @@
-/* Cookie Buttons */
+/* Cookie Consent Buttons */
 .cc-nb-buttons-container .cc-nb-okagree {
-  background-color: #8273FF !important;
+  background-color: #3A2E2A !important; /* тёмно-коричневый */
   color: #ffffff !important;
   border: none !important;
   border-radius: 6px !important;
@@ -10,8 +10,8 @@
 }
 
 .cc-nb-buttons-container .cc-nb-changep {
-  background-color: #F8F8F8 !important;
-  color: #000000 !important;
+  background-color: #EDE6DE !important; /* светло-бежевый */
+  color: #3A2E2A !important;
   border: 1px solid #ccc !important;
   border-radius: 6px !important;
   padding: 10px 20px !important;
@@ -19,9 +19,9 @@
   font-size: 14px !important;
 }
 
-/* Settings panel */
+/* Settings panel button */
 .cc-cp-foot-save {
-  background-color: #8273FF !important;
+  background-color: #3A2E2A !important;
   color: #ffffff !important;
   border: none !important;
   border-radius: 6px !important;
@@ -30,9 +30,10 @@
   font-size: 14px !important;
 }
 
+/* Close button */
 .termsfeed-com---palette-light .cc-pc-head-close:focus,
 .termsfeed-com---palette-light .cc-pc-head-close:active {
-  box-shadow: 0 0 0 2px #8273FF !important;
+  box-shadow: 0 0 0 2px #3A2E2A !important;
   border: none !important;
   outline: none !important;
 }
